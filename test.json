@@ -6,5 +6,6 @@
     "Joe"
   ],
   "add": "Testing commits",
-  "completed": true
+  "completed": true,
+  "manual": "Testing manual commit"
 }
